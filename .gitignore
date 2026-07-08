@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.so
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data (too large for GitHub)
+dataset/
+dataset.zip
+
+# OS
+Thumbs.db
+.DS_Store
+
+claude.md
